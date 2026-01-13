@@ -1,0 +1,11 @@
+CallID,AgentID,CustomerID,CallDate,CallDurationMinutes,IssueType,ResolutionStatus,CSATScore
+1,101,1001,2026-01-01,12,Billing,Resolved,5
+2,102,1002,2026-01-01,8,Technical,Resolved,4
+3,101,1003,2026-01-02,15,Complaint,Escalated,3
+4,103,1004,2026-01-02,7,General,Resolved,5
+5,102,1005,2026-01-03,20,Technical,Resolved,2
+6,101,1006,2026-01-03,10,Billing,Resolved,4
+7,103,1007,2026-01-04,5,General,Resolved,5
+8,102,1008,2026-01-04,25,Technical,Escalated,1
+9,101,1009,2026-01-05,8,Complaint,Resolved,4
+10,103,1010,2026-01-05,12,General,Resolved,5
